@@ -59,6 +59,8 @@ Each commits must respect the [convention](https://gist.github.com/qoomon/5dfcdf
 ## Roadmap
 
 ## Links
+- [Graph of Github branches](https://github.com/Layton-Community/Layton-Fangame-Godot/network)
+- [CLI tool for git graph](https://github.com/mlange-42/git-graph)
 - [Github Markdown Document](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 - [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 - [Official Discord Server](https://discord.gg/DSmjVvmBEd)
