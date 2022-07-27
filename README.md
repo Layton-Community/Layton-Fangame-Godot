@@ -5,35 +5,6 @@ This is the repository for the [Layton Fangame Godot](https://github.com/Layton-
 - ***DO NOT*** merge the "GDScript" branch with the "C#" branch and vice versa.
 - For now, ***DO NOT*** merge the "GDScript" branch or the "C#" branch with the "main" branch.
 
-## Documents
-
-### Programming
-- [Layton Fangame - Implementation structure Unity](https://docs.google.com/document/d/1b9HEG2cvpCl1Iopq0lIBah5j4o6t_Ynb5-Dn7zVfA4w/edit)
-- [trello](https://trello.com/b/Ls7GQyQ2/pl-fangame-programming-tasks)
-
-### Design
-- [Layton General Design Doc](https://docs.google.com/document/d/1Fh_J0bjUq80ZU1TXTLHe1oj1_jA5RH7At2S9jcXilZM/edit)
-
-### Story
-- [UPDATED Story and structure Layton](https://docs.google.com/document/d/1spmAfPzE56oFEDctGHczQPRIiTqORGSwgLkP1R2wbms/edit)
-- [Tips for character designs](https://docs.google.com/document/d/1WiAD5XzrA-8Jv8EuC5dpDqUpaKQobcak7EcTBAx1Sio/edit)
-
-### Art
-- [Art department (LAYTON FANGAME)](https://docs.google.com/document/d/1io2JBYmtMLUNQx-Npz0qANHYHPEVApU1eQMCkU_kiQE/edit)
-- [NPC ideas drawings (LAYTON FANGAME)](https://docs.google.com/document/d/1savOR2kp-bEluQrGeAkQyF9ORE1uMqrZdKep5IRo1EU/edit)
-
-### Puzzles
-- [Puzzles](https://docs.google.com/document/d/1BmuGgWw9yLZ8_GxY79smlyLSPWwF7mzJdcwkefOxApo/edit)
-
-### Music
-- [Music](https://docs.google.com/document/d/15G0nk758InwPZeKjSMOHlgg8IKIlSN2CxchhI_6MyDk/edit)
-- [Music drafts](https://drive.google.com/drive/folders/13P_OtXECN1YwzqESRKYMXIkZAnHmeH8E?usp=sharing)
-- [Professor Layton Fan Game Soundfont V4.sf2](https://drive.google.com/file/d/1y3htyV5heJr0qWfiKBG6s-AYDYds2KPw/view)
-
-### Dialogues
-- [Traduction FR Layton fangame Chapter 1](https://docs.google.com/spreadsheets/d/1F00uOSssAjDKDPxoO7BjV3vGfEtTF0-VVFAqBgYOvs8/edit#gid=0)
-- [Kapitel 1 - Deutsche Übersetzung](https://docs.google.com/document/d/1YovktpkMwB8PRetRfICl2W13HJWoJ6IU6-YEhfk6MDU/edit)
-
 ## Installation
 
 - ### Install Github Desktop
@@ -57,6 +28,24 @@ This is the repository for the [Layton Fangame Godot](https://github.com/Layton-
 Each commits must respect the [convention](https://gist.github.com/qoomon/5dfcdf8eec66a051ecd85625518cfd13#default).
 
 ## Roadmap
+- [ ] Think about the core approach to programming the game without being language specific.
+
+## Documents
+
+| Programming | [Layton Fangame - Implementation structure Unity](https://docs.google.com/document/d/1b9HEG2cvpCl1Iopq0lIBah5j4o6t_Ynb5-Dn7zVfA4w/edit) |
+| ----------- | ----------- |
+|             | [Trello](https://trello.com/b/Ls7GQyQ2/pl-fangame-programming-tasks) |
+|    Design   | [Layton General Design Doc](https://docs.google.com/document/d/1Fh_J0bjUq80ZU1TXTLHe1oj1_jA5RH7At2S9jcXilZM/edit) |
+|    Story    | [UPDATED Story and structure Layton](https://docs.google.com/document/d/1spmAfPzE56oFEDctGHczQPRIiTqORGSwgLkP1R2wbms/edit) |
+|             | [Tips for character designs](https://docs.google.com/document/d/1WiAD5XzrA-8Jv8EuC5dpDqUpaKQobcak7EcTBAx1Sio/edit) |
+|     Art     | [Art department (LAYTON FANGAME)](https://docs.google.com/document/d/1io2JBYmtMLUNQx-Npz0qANHYHPEVApU1eQMCkU_kiQE/edit) |
+|             | [NPC ideas drawings (LAYTON FANGAME)](https://docs.google.com/document/d/1savOR2kp-bEluQrGeAkQyF9ORE1uMqrZdKep5IRo1EU/edit) |
+|   Puzzles   | [Puzzles](https://docs.google.com/document/d/1BmuGgWw9yLZ8_GxY79smlyLSPWwF7mzJdcwkefOxApo/edit) |
+|    Music    | [Music Ideas](https://docs.google.com/document/d/15G0nk758InwPZeKjSMOHlgg8IKIlSN2CxchhI_6MyDk/edit) |
+|             | [Music drafts](https://drive.google.com/drive/folders/13P_OtXECN1YwzqESRKYMXIkZAnHmeH8E?usp=sharing) |
+|             | [Professor Layton Fan Game Soundfont V4.sf2](https://drive.google.com/file/d/1y3htyV5heJr0qWfiKBG6s-AYDYds2KPw/view) |
+|  Dialogues  | [Traduction FR Layton fangame Chapter 1](https://docs.google.com/spreadsheets/d/1F00uOSssAjDKDPxoO7BjV3vGfEtTF0-VVFAqBgYOvs8/edit#gid=0) |
+|             | [Kapitel 1 - Deutsche Übersetzung](https://docs.google.com/document/d/1YovktpkMwB8PRetRfICl2W13HJWoJ6IU6-YEhfk6MDU/edit) |
 
 ## Links
 - [Graph of Github branches](https://github.com/Layton-Community/Layton-Fangame-Godot/network)
