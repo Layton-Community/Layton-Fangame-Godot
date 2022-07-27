@@ -1,0 +1,6 @@
+[gd_scene load_steps=2 format=2]
+
+[ext_resource path="res://scripts/ui/UIManager.cs" type="Script" id=1]
+
+[node name="UIManager" type="CanvasLayer"]
+script = ExtResource( 1 )

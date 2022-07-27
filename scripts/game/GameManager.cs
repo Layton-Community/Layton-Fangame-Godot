@@ -1,13 +1,18 @@
-using Godot; 
+using Godot;
 using System.Collections.Generic;
 
 namespace Com.LaytonCommunity.RavensCurse
 {
-	public class Main : Node
+	public class GameManager : Node2D
 	{
 		public override void _Ready()
 		{
-
+			
+		}
+		
+		public override void _Process(float delta)
+		{
+			
 		}
 	}
 }
