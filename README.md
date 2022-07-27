@@ -1,8 +1,6 @@
 # Layton Fangame Godot version
 This is the repository for the [Layton Fangame Godot](https://github.com/Layton-Fangame/Layton-Fangame-Godot) Verson.
 
-Since the readme file is not yet set up, follow the [unity version](https://github.com/Layton-Community/Layton-Fangame#readme) readme.
-
 ## Warning
 - ***DO NOT*** merge the "GDScript" branch with the "C#" branch and vice versa.
 - For now, ***DO NOT*** merge the "GDScript" branch or the "C#" branch with the "main" branch.
