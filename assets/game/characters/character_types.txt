@@ -1,0 +1,23 @@
+Emotions:
+	"angry"
+	"happy"
+	"pensive"
+	"sad"
+	"surpised"
+	"thinking"
+
+Characters:
+	Layton:
+		"arms_crossed"
+		"base"
+		"holding_hat"
+		"points_up"
+		
+	Luke:
+		"arms_crossed"
+		"arms_down"
+		"arms_up"
+		"holding_hat"
+		
+	Flora:
+		"base"
