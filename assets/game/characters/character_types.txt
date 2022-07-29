@@ -9,8 +9,7 @@ Emotions:
 	"Thinking"
 
 
-Characters:
-
+Character types:
 	"Dummy0"
 		"Base"
 
