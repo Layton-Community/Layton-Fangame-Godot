@@ -6,18 +6,28 @@ Emotions:
 	"surpised"
 	"thinking"
 
+	"none"
+
+
 Characters:
-	Layton:
+
+	"dummy0"
+		"base"
+
+	"dummy1"
+		"base"
+	
+	"layton"
 		"arms_crossed"
 		"base"
 		"holding_hat"
 		"points_up"
 		
-	Luke:
+	"luke"
 		"arms_crossed"
 		"arms_down"
 		"arms_up"
 		"holding_hat"
 		
-	Flora:
+	"flora"
 		"base"
