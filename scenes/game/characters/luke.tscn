@@ -1,0 +1,72 @@
+[gd_scene load_steps=16 format=2]
+
+[ext_resource path="res://assets/game/characters/luke/luke_holding_hat_thinking.png" type="Texture" id=1]
+[ext_resource path="res://assets/game/characters/luke/luke_arms_up_pensive.png" type="Texture" id=2]
+[ext_resource path="res://assets/game/characters/luke/luke_holding_hat_happy.png" type="Texture" id=3]
+[ext_resource path="res://assets/game/characters/luke/luke_holding_hat_surprised.png" type="Texture" id=4]
+[ext_resource path="res://assets/game/characters/luke/luke_arms_up_surprised.png" type="Texture" id=5]
+[ext_resource path="res://assets/game/characters/luke/luke_arms_down_thinking.png" type="Texture" id=6]
+[ext_resource path="res://assets/game/characters/luke/luke_arms_up_happy.png" type="Texture" id=7]
+[ext_resource path="res://assets/game/characters/luke/luke_arms_up_sad.png" type="Texture" id=8]
+[ext_resource path="res://assets/game/characters/luke/luke_arms_down_angry.png" type="Texture" id=9]
+[ext_resource path="res://assets/game/characters/luke/luke_arms_down_happy.png" type="Texture" id=10]
+[ext_resource path="res://assets/game/characters/luke/luke_arms_crossed_sad.png" type="Texture" id=11]
+[ext_resource path="res://assets/game/characters/luke/luke_arms_down_sad.png" type="Texture" id=12]
+[ext_resource path="res://assets/game/characters/luke/luke_arms_crossed_happy.png" type="Texture" id=13]
+[ext_resource path="res://assets/game/characters/luke/luke_arms_crossed_angry.png" type="Texture" id=14]
+[ext_resource path="res://assets/game/characters/luke/luke_arms_crossed_surprised.png" type="Texture" id=15]
+
+[node name="Luke" type="Node2D"]
+
+[node name="ArmsCrossed" type="Node2D" parent="."]
+
+[node name="Angry" type="Sprite" parent="ArmsCrossed"]
+texture = ExtResource( 14 )
+
+[node name="Happy" type="Sprite" parent="ArmsCrossed"]
+texture = ExtResource( 13 )
+
+[node name="Sad" type="Sprite" parent="ArmsCrossed"]
+texture = ExtResource( 11 )
+
+[node name="Surprised" type="Sprite" parent="ArmsCrossed"]
+texture = ExtResource( 15 )
+
+[node name="ArmsDown" type="Node2D" parent="."]
+
+[node name="Angry" type="Sprite" parent="ArmsDown"]
+texture = ExtResource( 9 )
+
+[node name="Happy" type="Sprite" parent="ArmsDown"]
+texture = ExtResource( 10 )
+
+[node name="Sad" type="Sprite" parent="ArmsDown"]
+texture = ExtResource( 12 )
+
+[node name="Thinking" type="Sprite" parent="ArmsDown"]
+texture = ExtResource( 6 )
+
+[node name="ArmsUp" type="Node2D" parent="."]
+
+[node name="Happy" type="Sprite" parent="ArmsUp"]
+texture = ExtResource( 7 )
+
+[node name="Pensive" type="Sprite" parent="ArmsUp"]
+texture = ExtResource( 2 )
+
+[node name="Sad" type="Sprite" parent="ArmsUp"]
+texture = ExtResource( 8 )
+
+[node name="Surprised" type="Sprite" parent="ArmsUp"]
+texture = ExtResource( 5 )
+
+[node name="HoldingHat" type="Node2D" parent="."]
+
+[node name="Happy" type="Sprite" parent="HoldingHat"]
+texture = ExtResource( 3 )
+
+[node name="Surprised" type="Sprite" parent="HoldingHat"]
+texture = ExtResource( 4 )
+
+[node name="Thinking" type="Sprite" parent="HoldingHat"]
+texture = ExtResource( 1 )
