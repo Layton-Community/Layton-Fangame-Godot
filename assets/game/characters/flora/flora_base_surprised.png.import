@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/flora_happy.png-7537f25022c97a0c0e5505e3eb3d6b28.stex"
+path="res://.import/flora_base_surprised.png-a843fd803645ba6db588ab5cdf317a6a.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/game/characters/flora/flora_happy.png"
-dest_files=[ "res://.import/flora_happy.png-7537f25022c97a0c0e5505e3eb3d6b28.stex" ]
+source_file="res://assets/game/characters/flora/flora_base_surprised.png"
+dest_files=[ "res://.import/flora_base_surprised.png-a843fd803645ba6db588ab5cdf317a6a.stex" ]
 
 [params]
 

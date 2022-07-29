@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/layton_arms_crossed_surpised.png-d97457723d056be372ccdf88b0911697.stex"
+path="res://.import/layton_arms_crossed_surprised.png-9b96049243ecd4566ccb03511d5fed29.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/game/characters/layton/layton_arms_crossed_surpised.png"
-dest_files=[ "res://.import/layton_arms_crossed_surpised.png-d97457723d056be372ccdf88b0911697.stex" ]
+source_file="res://assets/game/characters/layton/layton_arms_crossed_surprised.png"
+dest_files=[ "res://.import/layton_arms_crossed_surprised.png-9b96049243ecd4566ccb03511d5fed29.stex" ]
 
 [params]
 

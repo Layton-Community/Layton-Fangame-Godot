@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/layton_angry.png-08a87e89f42e8cd62c788f52fed69606.stex"
+path="res://.import/flora_base_angry.png-9208e2772c5a3fee9e1d7c07d953e10b.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/game/characters/layton/layton_angry.png"
-dest_files=[ "res://.import/layton_angry.png-08a87e89f42e8cd62c788f52fed69606.stex" ]
+source_file="res://assets/game/characters/flora/flora_base_angry.png"
+dest_files=[ "res://.import/flora_base_angry.png-9208e2772c5a3fee9e1d7c07d953e10b.stex" ]
 
 [params]
 

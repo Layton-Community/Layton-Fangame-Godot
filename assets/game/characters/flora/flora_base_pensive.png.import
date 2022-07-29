@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/flora_thinking.png-a4c62070f96553a1af598905faf7593c.stex"
+path="res://.import/flora_base_pensive.png-6dc44a8c7806a7d61b8e8fea281a36ef.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/game/characters/flora/flora_thinking.png"
-dest_files=[ "res://.import/flora_thinking.png-a4c62070f96553a1af598905faf7593c.stex" ]
+source_file="res://assets/game/characters/flora/flora_base_pensive.png"
+dest_files=[ "res://.import/flora_base_pensive.png-6dc44a8c7806a7d61b8e8fea281a36ef.stex" ]
 
 [params]
 
