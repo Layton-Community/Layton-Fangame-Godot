@@ -1,33 +1,33 @@
 Emotions:
-	"angry"
-	"happy"
-	"pensive"
-	"sad"
-	"surpised"
-	"thinking"
-
-	"none"
+	"None"
+	"Angry"
+	"Happy"
+	"VeryHappy"
+	"Pensive"
+	"Sad"
+	"Surpised"
+	"Thinking"
 
 
 Characters:
 
-	"dummy0"
-		"base"
+	"Dummy0"
+		"Base"
 
-	"dummy1"
-		"base"
+	"Dummy1"
+		"Base"
 	
-	"layton"
-		"arms_crossed"
-		"base"
-		"holding_hat"
-		"points_up"
+	"Layton"
+		"ArmsCrossed"
+		"Base"
+		"HoldingHat"
+		"PointsUp"
 		
-	"luke"
-		"arms_crossed"
-		"arms_down"
-		"arms_up"
-		"holding_hat"
+	"Luke"
+		"ArmsCrossed"
+		"ArmsDown"
+		"ArmsUp"
+		"HoldingHat"
 		
-	"flora"
-		"base"
+	"Flora"
+		"Base"
